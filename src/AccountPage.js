@@ -3,9 +3,9 @@ import profile from './images/s1.jpeg';
 const AccountPage = () => {
   // Sample user data; in a real app, this would come from state or a database
   const user = {
-    name: 'Sudhanshu',
+    name: 'Sudhanshu Pathak',
     profileImage: profile, // Placeholder image; replace with actual image URL if available
-    username: 'Sudhanshu_p',
+    username: 'Sudhanshu_pathak',
     purchasedCourses: [
       'React for Beginners',
       'Advanced JavaScript',
